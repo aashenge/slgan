@@ -1,11 +1,3 @@
-#! usr/bin/env python3
-# -*- coding:utf-8 -*-
-"""
-# Copyright 2018 The Google AI Language Team Authors.
-# Copyright 2019 The BioNLP-HZAU Kaiyin Zhou
-# Time:2019/04/08
-"""
-
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
